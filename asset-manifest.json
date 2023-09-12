@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/tour,/static/css/main.9faa2d03.css",
+    "main.js": "/tour,/static/js/main.f8d287c6.js",
+    "static/js/787.6e1697bb.chunk.js": "/tour,/static/js/787.6e1697bb.chunk.js",
+    "static/media/ocean2.mp4": "/tour,/static/media/ocean2.611ca25fed7ff7503078.mp4",
+    "static/media/glacier.jpg": "/tour,/static/media/glacier.bb68fd5f28bf0f0611fb.jpg",
+    "static/media/eiffeltower.jpg": "/tour,/static/media/eiffeltower.6afa62da49b23a6c4ccf.jpg",
+    "static/media/palacebhutan.jpg": "/tour,/static/media/palacebhutan.467cb66bf850c96d5890.jpg",
+    "static/media/greatwallofchina.jpg": "/tour,/static/media/greatwallofchina.d7bbea04bad041d06360.jpg",
+    "static/media/gardensbythebay.jpg": "/tour,/static/media/gardensbythebay.20dcac9e163256cced65.jpg",
+    "static/media/tajmahal.jpg": "/tour,/static/media/tajmahal.097c80e57744af4a6a1f.jpg",
+    "static/media/maldivesbeach.jpg": "/tour,/static/media/maldivesbeach.1db357a03296df1076dd.jpg",
+    "static/media/mahabalipuram.jpg": "/tour,/static/media/mahabalipuram.a79afe4302613c7bc173.jpg",
+    "static/media/disneyworld.jpg": "/tour,/static/media/disneyworld.bbcde6864deddd8f691c.jpg",
+    "static/media/beachs.jpg": "/tour,/static/media/beachs.f3df343ecd7fe3f17e8f.jpg",
+    "static/media/trainsnowswitzerland.jpg": "/tour,/static/media/trainsnowswitzerland.c74078163b9077a2a72a.jpg",
+    "static/media/barrendesert.jpg": "/tour,/static/media/barrendesert.444a02eba95259075d10.jpg",
+    "static/media/burjkhalifa.jpg": "/tour,/static/media/burjkhalifa.77faaee1bc5d99724d24.jpg",
+    "index.html": "/tour,/index.html",
+    "main.9faa2d03.css.map": "/tour,/static/css/main.9faa2d03.css.map",
+    "main.f8d287c6.js.map": "/tour,/static/js/main.f8d287c6.js.map",
+    "787.6e1697bb.chunk.js.map": "/tour,/static/js/787.6e1697bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9faa2d03.css",
+    "static/js/main.f8d287c6.js"
+  ]
+}
